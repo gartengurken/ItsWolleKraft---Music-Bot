@@ -47,3 +47,4 @@ module.exports = {
 	},
 	iconURL: "https://cdn.darrennathanael.com/icons/spinning_disk.gif", //- This icon will be in every embed's author field
 };
+
